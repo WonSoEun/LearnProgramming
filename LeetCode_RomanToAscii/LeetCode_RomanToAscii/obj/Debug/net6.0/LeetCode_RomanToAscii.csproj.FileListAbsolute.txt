@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\bin\Debug\net6.0\LeetCode_RomanToAscii.exe
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\bin\Debug\net6.0\LeetCode_RomanToAscii.deps.json
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\bin\Debug\net6.0\LeetCode_RomanToAscii.runtimeconfig.json
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\bin\Debug\net6.0\LeetCode_RomanToAscii.dll
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\bin\Debug\net6.0\LeetCode_RomanToAscii.pdb
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.AssemblyInfo.cs
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.dll
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\refint\LeetCode_RomanToAscii.dll
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.pdb
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\LeetCode_RomanToAscii.genruntimeconfig.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\LeetCode_RomanToAscii\LeetCode_RomanToAscii\obj\Debug\net6.0\ref\LeetCode_RomanToAscii.dll
