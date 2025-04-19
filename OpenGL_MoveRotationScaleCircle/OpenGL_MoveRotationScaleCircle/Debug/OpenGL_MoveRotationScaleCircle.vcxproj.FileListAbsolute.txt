@@ -1,0 +1,1 @@
+D:\PortFolio\Learning\OpenGL_MoveRotationScaleCircle\OpenGL_MoveRotationScaleCircle\Debug\OpenGL_MoveRotationScaleCircle.vcxproj.CopyComplete

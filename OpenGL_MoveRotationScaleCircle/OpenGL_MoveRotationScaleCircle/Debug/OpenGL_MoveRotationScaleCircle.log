@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\PortFolio\Learning\OpenGL_MoveRotationScaleCircle\OpenGL_MoveRotationScaleCircle\main.cpp(112,69): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+D:\PortFolio\Learning\OpenGL_MoveRotationScaleCircle\OpenGL_MoveRotationScaleCircle\main.cpp(113,68): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+D:\PortFolio\Learning\OpenGL_MoveRotationScaleCircle\OpenGL_MoveRotationScaleCircle\main.cpp(271,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenGL_MoveRotationScaleCircle.vcxproj -> D:\PortFolio\Learning\OpenGL_MoveRotationScaleCircle\Debug\OpenGL_MoveRotationScaleCircle.exe
