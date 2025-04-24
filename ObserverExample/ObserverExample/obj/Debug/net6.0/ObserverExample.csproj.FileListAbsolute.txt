@@ -1,0 +1,15 @@
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\bin\Debug\net6.0\ObserverExample.exe
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\bin\Debug\net6.0\ObserverExample.deps.json
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\bin\Debug\net6.0\ObserverExample.runtimeconfig.json
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\bin\Debug\net6.0\ObserverExample.dll
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\bin\Debug\net6.0\ObserverExample.pdb
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.csproj.AssemblyReference.cache
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.AssemblyInfoInputs.cache
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.AssemblyInfo.cs
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.csproj.CoreCompileInputs.cache
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.dll
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\refint\ObserverExample.dll
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.pdb
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ObserverExample.genruntimeconfig.cache
+D:\Git\Portfolio Git\ProgrammingCode\ObserverExample\ObserverExample\obj\Debug\net6.0\ref\ObserverExample.dll
